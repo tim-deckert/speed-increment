@@ -1,0 +1,26 @@
+.CharacterInfo {
+  display: inline;
+  width: 50%;
+  padding: 20px;
+  text-align: center;
+}
+
+.characterNameLabel {
+  font-weight: bold;
+  display: inline;
+  margin-bottom: 8px;
+}
+
+.characterName {
+  margin-bottom: 16px;
+}
+
+.initiativeLabel {
+  font-weight: bold;
+  display: inline;
+  margin-bottom: 8px;
+}
+
+.initiative {
+  margin-bottom: 16px;
+}
